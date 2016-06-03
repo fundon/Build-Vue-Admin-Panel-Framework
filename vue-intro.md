@@ -26,7 +26,7 @@ Vue.js 是由 [Evan You @ouyuxi][] 创作的，作者之前在 Google 工作，�
 
 ## 入门指南
 
- 我们就直接看官方的中文站，里面的入门指南写的很详细。[请猛搓][]。
+ 这里就直接看官方的中文站，里面的入门指南写的很详细。[请猛搓][]。
 
 [Vue.js]: http://vuejs.org.cn/
 [响应的数据绑定]: http://vuejs.org.cn/guide/overview.html#响应的数据绑定
