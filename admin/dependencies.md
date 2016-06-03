@@ -2,7 +2,7 @@
 
 | Name | Version | Description |  
 | --- | --- | --- |  
-| [Vue.js][] | 1.0.24 |  |  
+| [Vue.js][] | 1.0.24 | Simple yet powerful library for building modern web interfaces |  
 | [vuex][] | 0.6.3 | 状态管理架构 |  
 | [vue-router][] | 0.7.13 | 路由组件 |  
 | [vue-resource][] | 0.7.2 | HTTP 资源组件 |  
