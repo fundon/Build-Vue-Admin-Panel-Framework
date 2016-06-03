@@ -6,8 +6,8 @@
 | [vuex][] | 0.6.3 |  |  
 | [vue-router][] | 0.7.13 |  |  
 | [vue-resource][] | 0.7.2 |  |  
-| [bulma][] | 0.0.28 |  |  
-| [font-awesome][] | 4.6.3 |  |  
+| [bulma][] | 0.0.28 | A modern CSS framework based on Flexbox |  
+| [font-awesome][] | 4.6.3 | Font Awesome, the iconic font and CSS framework |  
 | ... |  |  |  
 
 
