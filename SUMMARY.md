@@ -1,3 +1,3 @@
-# Summary
+# Table of content
 
-* [Vue.js 介绍](vue-introduction.md)
+* [First Chapter](chapter1.md)
