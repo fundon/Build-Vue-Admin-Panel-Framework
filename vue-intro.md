@@ -1,6 +1,6 @@
 # [Vue.js][] 简介
 
-  Vue.js 是由 [Evan You @ouyuxi][] 创作的，作者之前在 Google 工作，接触使用了 Angular 进行项目开发，
+Vue.js 是由 [Evan You @ouyuxi][] 创作的，作者之前在 Google 工作，接触了 Angular 后，借鉴了 Angular 中的一些概念（指令，过滤器等）。
 
 
 ## 核心特点
