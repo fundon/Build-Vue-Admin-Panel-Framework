@@ -14,7 +14,7 @@
 
 * 灵活的过度效果系统
 
-  > 场景切换，流畅的过度动画
+  > 场景切换，流畅的过度动画可以提升用户体验
 
 [响应的数据绑定]: http://vuejs.org.cn/guide/overview.html#响应的数据绑定
 [组件系统]: http://vuejs.org.cn/guide/overview.html#组件系统
