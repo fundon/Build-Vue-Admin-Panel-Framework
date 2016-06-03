@@ -18,8 +18,13 @@ Vue.js 是由 [Evan You @ouyuxi][] 创作的，作者之前在 Google 工作，�
 
   > 场景切换，流畅的过度动画可以提升用户体验
 
+## 入门指南
+
+ 我们就直接看官方的中文站，里面的入门指南写的很详细。[请猛搓][]。
+
 [Vue.js]: http://vuejs.org.cn/
 [响应的数据绑定]: http://vuejs.org.cn/guide/overview.html#响应的数据绑定
 [组件系统]: http://vuejs.org.cn/guide/overview.html#组件系统
 [MVC，MVP 和 MVVM 的图示]: http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
 [Evan You @ouyuxi]: https://twitter.com/youyuxi
+[请猛搓]: http://vuejs.org.cn/guide/
