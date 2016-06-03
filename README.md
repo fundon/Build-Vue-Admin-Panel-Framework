@@ -11,12 +11,12 @@ React、Ember、Angular、Vue、Riot 等都是很棒的开源框架，也是不�
 
 ## 为什么选择 Vue.js？
 
-* 开发体验太棒了，使用 [vue-loader][]，简直坐上了火箭
+* 开发体验太棒了，使用 [Webpack][] ＋ [vue-loader][]，简直坐上了火箭
+
+* 
 
 
-
-
-
+[Webpack]: http://webpack.github.io/
 [vue-loader]: https://github.com/vuejs/vue-loader
 
 
