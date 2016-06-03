@@ -18,7 +18,6 @@ React、Ember、Angular、Vue、Riot 等都是很棒的开源框架，也是不�
 * 开发体验太棒了，使用 [Webpack][] ＋ [vue-loader][]，简直坐上了火箭
 
 
-
 [对比其它框架]: http://vuejs.org.cn/guide/comparison.html
 [Webpack]: http://webpack.github.io/
 [vue-loader]: https://github.com/vuejs/vue-loader
