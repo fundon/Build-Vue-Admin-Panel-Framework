@@ -2,7 +2,7 @@
 
 ## 核心特点
 
-* [响应的数据绑定][]
+* [响应的数据绑定][]：MVVM
   ![](http://vuejs.org.cn/images/mvvm.png)
 
 * [组件系统][]
