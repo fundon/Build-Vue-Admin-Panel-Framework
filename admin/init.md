@@ -7,7 +7,7 @@
 1. `npm install vue-cli -g`
 2. `vue init webpack vue-admin`
 3. `cd vue-admin`
-4. `npm install -d`
+4. `npm install`
 3. `npm run dev`
 4. `open http://localhost:8080`
 
