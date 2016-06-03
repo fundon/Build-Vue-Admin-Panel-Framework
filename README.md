@@ -10,6 +10,7 @@ React、Ember、Angular、Vue、Riot 等都是很棒的开源框架。
 >选择适合自己，适合团队的才是最重要的
 
 ## 为什么选择 Vue.js？
+![](http://vuejs.org.cn/images/logo.png)
 
 * 官方文章：[对比其它框架][]
 
