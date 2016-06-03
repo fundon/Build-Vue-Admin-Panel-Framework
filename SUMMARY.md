@@ -1,3 +1,3 @@
 # Summary
 
-* [Vue.js 介绍](vue-intro.md)
+* [Vue.js 简介](vue-intro.md)
