@@ -8,4 +8,4 @@
 
   * [环境搭建](admin/init.md)
 
-  * [依赖](dependencies.md)
+  * [依赖](admin/dependencies.md)
