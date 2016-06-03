@@ -8,4 +8,5 @@
 | vue-resource | 0.7.2 |  |
 | bulma | 0.0.28 |  |
 | font-awesome | 4.6.3 |  |
+| ... |  |  |
 
