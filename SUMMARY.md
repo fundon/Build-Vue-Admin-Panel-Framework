@@ -6,6 +6,6 @@
 
   * [功能列表](admin/features.md)
 
-  * [环境搭建](admin/build.md)
+  * [环境搭建](admin/init.md)
 
   * [系统依赖](dependencies.md)
