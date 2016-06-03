@@ -14,6 +14,5 @@
 
 > 以上参考自 [BlurAdmin][]，一个开源的、优秀的后台管理框架，基于 Angular。
 
-
 [BlurAdmin]: http://akveo.github.io/blur-admin/
 
