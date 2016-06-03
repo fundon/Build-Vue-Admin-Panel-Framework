@@ -3,9 +3,9 @@
 | Name | Version | Description |  
 | --- | --- | --- |  
 | [Vue.js][] | 1.0.24 |  |  
-| [vuex][] | 0.6.3 |  |  
-| [vue-router][] | 0.7.13 | 路由 |  
-| [vue-resource][] | 0.7.2 |  |  
+| [vuex][] | 0.6.3 | 状态管理架构 |  
+| [vue-router][] | 0.7.13 | 路由组件 |  
+| [vue-resource][] | 0.7.2 | HTTP 资源组件 |  
 | [bulma][] | 0.0.28 | A modern CSS framework based on Flexbox |  
 | [font-awesome][] | 4.6.3 | Font Awesome, the iconic font and CSS framework |  
 | ... |  |  |  
