@@ -20,8 +20,13 @@ React、Ember、Angular、Vue、Riot 等都是很棒的开源框架。
 
 * 中文文档支持太完美了，对于国人来说太爽了： http://vuejs.org.cn/
 
+## Repos
+
+* [vue-admin][]
+* [Vue.js 实战：构建后台管理框架][]
+
+[Vue.js 实战：构建后台管理框架]: https://github.com/fundon/Build-Vue-Admin-Panel-Framework
+[vue-admin]: https://github.com/fundon/vue-admin
 [对比其它框架]: http://vuejs.org.cn/guide/comparison.html
 [Webpack]: http://webpack.github.io/
 [vue-loader]: https://github.com/vuejs/vue-loader
-
-
