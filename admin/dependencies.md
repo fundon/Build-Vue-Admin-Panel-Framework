@@ -14,8 +14,8 @@
 
 
 [vue.js]: http://vuejs.org.cn
-[vuex]: https://github.com/vuejs/vuex
-[vue-router]: https://github.com/vuejs/vue-router
+[vuex]: http://vuex.vuejs.org/zh-cn/index.html
+[vue-router]: http://vue-router.vuejs.org/zh-cn/index.html
 [vue-resource]: https://github.com/vuejs/vue-resource
 [bulma]: http://bulma.io
 [chart.js]: http://www.chartjs.org/
