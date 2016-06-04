@@ -8,6 +8,7 @@
 | [vue-resource][] | 0.7.2 | HTTP 资源组件 |  
 | [bulma][] | 0.0.28 | A modern CSS framework based on Flexbox |  
 | [chart.js][] | 2.1.4 | Simple HTML5 Charts using the canvas element |  
+| [animate.css][] | 2.1.4 | Just-add-water CSS animations | 
 | [font-awesome][] | 4.6.3 | Font Awesome, the iconic font and CSS framework |  
 | ... |  |  |  
 
@@ -19,3 +20,4 @@
 [bulma]: http://bulma.io
 [chart.js]: http://www.chartjs.org/
 [font-awesome]: http://fontawesome.io/
+[animate.css]: http://daneden.github.io/animate.css/
