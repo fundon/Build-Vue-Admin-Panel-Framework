@@ -2,6 +2,7 @@
 
 | Path | Component | Description |
 | -- | -- | -- |
-| `/dashboard` | `Dashboard` |  |
+| `/dashboard` | `Dashboard` | 仪表盘：聚合展示各种数据 |
+| `/charts/chartJs` | `ChartJs` | 图表：数据可视化 |
 
 
