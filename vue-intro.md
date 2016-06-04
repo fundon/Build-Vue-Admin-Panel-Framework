@@ -6,7 +6,7 @@ Vue.js 是由 [Evan You @ouyuxi][] 创作的，作者之前在 Google 工作，�
 
 还有，目前 Vue.js 在实际开发中的体验，我认为 Angular 是没法以之相比的。
 
-> 现在 GitHub 对 **\.vue** 文件进行高亮，太赞了！
+> 现在 GitHub 对 **\.vue** 格式的文件进行高亮，太赞了！
 
 ## 核心特点
 
