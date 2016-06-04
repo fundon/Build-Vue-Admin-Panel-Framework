@@ -22,8 +22,8 @@ React、Ember、Angular、Vue、Riot 等都是很棒的开源框架。
 
 ## Repos
 
-* [vue-admin][]
-* [Vue.js 实战：构建后台管理框架][]
+* [vue-admin][] － 完整的源代码
+* [Vue.js 实战：构建后台管理框架][] － 讲稿
 
 [Vue.js 实战：构建后台管理框架]: https://github.com/fundon/Build-Vue-Admin-Panel-Framework
 [vue-admin]: https://github.com/fundon/vue-admin
