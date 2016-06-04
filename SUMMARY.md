@@ -9,3 +9,5 @@
   * [环境搭建](admin/init.md)
 
   * [依赖](admin/dependencies.md)
+
+  * [路由](admin/router.md)
