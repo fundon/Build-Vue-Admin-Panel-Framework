@@ -32,7 +32,7 @@ Vue.js 是由 [Evan You @ouyuxi][] 创作的，作者之前在 Google 工作，�
  
 Vue.js 2.0 要来了，速度更快，更小，期待吧！
 
-* https://speakerdeck.com/kazupon/next-vue-dot-js-2-dot-0
+* [Next Vue.js 2.0][]
 
 [Vue.js]: http://vuejs.org.cn/
 [响应的数据绑定]: http://vuejs.org.cn/guide/overview.html#响应的数据绑定
@@ -40,3 +40,4 @@ Vue.js 2.0 要来了，速度更快，更小，期待吧！
 [MVC，MVP 和 MVVM 的图示]: http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
 [Evan You @ouyuxi]: https://twitter.com/youyuxi
 [请猛搓]: http://vuejs.org.cn/guide/
+[Next Vue.js 2.0]: https://speakerdeck.com/kazupon/next-vue-dot-js-2-dot-0
