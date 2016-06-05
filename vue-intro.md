@@ -30,7 +30,9 @@ Vue.js 是由 [Evan You @ouyuxi][] 创作的，作者之前在 Google 工作，�
  
 ## 2.0
  
-Vue.js 2.0 要来了，速度更快，更小，期待吧！ 
+Vue.js 2.0 要来了，速度更快，更小，期待吧！
+
+* https://speakerdeck.com/kazupon/next-vue-dot-js-2-dot-0
 
 [Vue.js]: http://vuejs.org.cn/
 [响应的数据绑定]: http://vuejs.org.cn/guide/overview.html#响应的数据绑定
